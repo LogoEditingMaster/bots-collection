@@ -1,9 +1,9 @@
-daysUntilLock: 3
+daysUntilLock: 1
 skipCreatedBefore: false
 
 exemptLabels: []
 
-lockLabel: false
+lockLabel: true
 
 lockComment: >
   This thread has been automatically locked since there has not been

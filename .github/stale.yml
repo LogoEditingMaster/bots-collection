@@ -1,5 +1,5 @@
 daysUntilStale: 1
-daysUntilClose: 1
+daysUntilClose: 6
 
 exemptLabels:
   - pinned
